@@ -1,0 +1,267 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-isoimmunization---secondary.py
+inputModule3:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-skull---secondary.py
+inputModule4:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-fetalis---secondary.py
+inputModule5:
+  class: File
+  path: python/chronic-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule6:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-damage---secondary.py
+inputModule7:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-problem---secondary.py
+inputModule8:
+  class: File
+  path: python/metabolic-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule9:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-neonat---secondary.py
+inputModule10:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-delivery---secondary.py
+inputModule11:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-afected---secondary.py
+inputModule12:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-fracture---secondary.py
+inputModule13:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-unspec---secondary.py
+inputModule14:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-ischaemia---secondary.py
+inputModule15:
+  class: File
+  path: python/haemorrhagic-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule16:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-membranes---secondary.py
+inputModule17:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-period---secondary.py
+inputModule18:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-noted---secondary.py
+inputModule19:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-neonatorum---secondary.py
+inputModule20:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-specified---secondary.py
+inputModule21:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-scalp---secondary.py
+inputModule22:
+  class: File
+  path: python/cranial-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule23:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-muscle---secondary.py
+inputModule24:
+  class: File
+  path: python/peripheral-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule25:
+  class: File
+  path: python/nutritional-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule26:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-melaena---secondary.py
+inputModule27:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-neonatl---secondary.py
+inputModule28:
+  class: File
+  path: python/haemolytic-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule29:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-birth---secondary.py
+inputModule30:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-regulation---secondary.py
+inputModule31:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-procedure---secondary.py
+inputModule32:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-tract---secondary.py
+inputModule33:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-haematemesis---secondary.py
+inputModule34:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-related---secondary.py
+inputModule35:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-pregnancy---secondary.py
+inputModule36:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-preterm---secondary.py
+inputModule37:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-obstruction---secondary.py
+inputModule38:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-pneumonia---secondary.py
+inputModule39:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-withdrawal---secondary.py
+inputModule40:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-reaction---secondary.py
+inputModule41:
+  class: File
+  path: python/parasitic-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule42:
+  class: File
+  path: python/massive-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule43:
+  class: File
+  path: python/renal-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule44:
+  class: File
+  path: python/viral-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule45:
+  class: File
+  path: python/central-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule46:
+  class: File
+  path: python/noxious-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule47:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-diabetes---secondary.py
+inputModule48:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-staphylococcu---secondary.py
+inputModule49:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-atelectasis---secondary.py
+inputModule50:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-polycythaemia---secondary.py
+inputModule51:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-group---secondary.py
+inputModule52:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-agent---secondary.py
+inputModule53:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-circulation---secondary.py
+inputModule54:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-distress---secondary.py
+inputModule55:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-meconium---secondary.py
+inputModule56:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-balance---secondary.py
+inputModule57:
+  class: File
+  path: python/digestive-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule58:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-malaria---secondary.py
+inputModule59:
+  class: File
+  path: python/haematological-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule60:
+  class: File
+  path: python/umbilical-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule61:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-apnoea---secondary.py
+inputModule62:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-respiratory---secondary.py
+inputModule63:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-hypoxia---secondary.py
+inputModule64:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-hypocalcaemia---secondary.py
+inputModule65:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-newborn---secondary.py
+inputModule66:
+  class: File
+  path: python/cardiovascular-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule67:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-hypoglycaemia---secondary.py
+inputModule68:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-enterocolitis---secondary.py
+inputModule69:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-classified---secondary.py
+inputModule70:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-light---secondary.py
+inputModule71:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-kernicterus---secondary.py
+inputModule72:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-asphyxia---secondary.py
+inputModule73:
+  class: File
+  path: python/bacterial-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule74:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-escherichia---secondary.py
+inputModule75:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-oedema---secondary.py
+inputModule76:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-praevia---secondary.py
+inputModule77:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-convulsion---secondary.py
+inputModule78:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-coagulation---secondary.py
+inputModule79:
+  class: File
+  path: python/transient-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule80:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-anaemia---secondary.py
+inputModule81:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-cardiac---secondary.py
+inputModule82:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-paralysis---secondary.py
+inputModule83:
+  class: File
+  path: python/cerebral-death-by-certain-conditions-originating-in-the-perinatal---secondary.py
+inputModule84:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-breast---secondary.py
+inputModule85:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-nerve---secondary.py
+inputModule86:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-skeleton---secondary.py
+inputModule87:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-streptococcu---secondary.py
+inputModule88:
+  class: File
+  path: python/death-by-certain-conditions-originating-in-the-perinatal-failure---secondary.py
+inputModule89:
+  class: File
+  path: python/output-cases.py
